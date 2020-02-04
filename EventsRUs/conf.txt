@@ -1,0 +1,111 @@
+QCon London 2019
+talkevent
+Talk 1
+2019
+2
+1
+10
+10
+2019
+2
+1
+11
+0
+true
+3
+Speaker 1
+1234
+Speaker 2
+4567
+Speaker 3
+2342
+Room 101
+true
+talkevent
+Talk 2
+2019
+2
+1
+11
+30
+2019
+2
+1
+12
+0
+true
+1
+Speaker name
+1234
+Room 102
+true
+talkevent
+The Universe
+2019
+3
+1
+12
+0
+2019
+3
+1
+12
+30
+false
+1
+Tim Peaks
+2222
+Room 102
+true
+talkevent
+Talk 3
+2019
+3
+2
+10
+30
+2019
+3
+2
+11
+0
+true
+1
+Tim Tom
+3333
+Room 101
+true
+socialevent
+Room 102
+1
+0
+1
+1
+1
+2
+1
+2
+2
+2
+true
+true
+true
+Room 101
+true
+socialevent
+Sorted B
+2
+1
+2
+2
+2
+3
+2
+3
+3
+3
+true
+true
+true
+Room 101
+true

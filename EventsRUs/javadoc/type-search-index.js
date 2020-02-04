@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Conference"},{"p":"<Unnamed>","l":"ConferenceApp"},{"p":"<Unnamed>","l":"Event"},{"p":"<Unnamed>","l":"Social"},{"p":"<Unnamed>","l":"Speaker"},{"p":"<Unnamed>","l":"Talk"},{"p":"<Unnamed>","l":"Venue"}]
